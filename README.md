@@ -1,24 +1,23 @@
-📊 Sentiment Analysis & Trending Words Dashboard
-This project analyzes textual data to extract sentiment insights and visualize trending words. Built using Python in Kaggle, it includes:
+# 📊 Sentiment Analysis & Trending Words Dashboard
 
-🔹 Features:
-✅ Word Cloud – Highlights frequently used words in the dataset.
-✅ Sentiment Analysis – Classifies text into positive, negative, and neutral sentiments.
-✅ Data Processing – Cleans and structures data for visualization.
-✅ Visualization – Uses Matplotlib, Seaborn, and WordCloud for graphical insights.
+This project provides a **sentiment analysis** and **word cloud visualization** dashboard for textual data. It helps in understanding text trends and sentiment distribution using **Python**.
 
-🔹 Technologies Used:
-🟢 Python – Data processing & analysis
-🟢 NLTK / TextBlob – Sentiment classification
-🟢 Matplotlib / Seaborn – Data visualization
-🟢 Pandas – Handling datasets
+## 🚀 Features
+- **📌 Word Cloud** – Displays frequently used words in the dataset.
+- **📌 Sentiment Analysis** – Categorizes text as **positive, negative, or neutral**.
+- **📌 Data Preprocessing** – Cleans, tokenizes, and structures data.
+- **📌 Visualizations** – Generates insightful graphs for analysis.
 
-🔹 How to Use:
-1️⃣ Clone the repository:
+## 🛠️ Technologies Used
+- **Python** 🐍 – Data processing and analysis
+- **NLTK / TextBlob** 🔠 – Sentiment classification
+- **Matplotlib / Seaborn** 📊 – Data visualization
+- **Pandas** 🏗️ – Handling and processing datasets
+- **WordCloud** ☁️ – Creating trending words visualization
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/sentiment-dashboard.git
-2️⃣ Run the notebook on Kaggle or Jupyter.
-3️⃣ Upload your dataset and analyze results!
+
+## 📌 Installation & Usage
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/AdwinTS/FUTURE_DS_01.git
+
