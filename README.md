@@ -20,4 +20,5 @@ This project provides a **sentiment analysis** and **word cloud visualization** 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/AdwinTS/FUTURE_DS_01.git
+![Image](https://github.com/user-attachments/assets/c4e83504-71a1-42c7-a68c-da9987022850)
 ![Image](https://github.com/user-attachments/assets/e61fd1b4-6e23-4138-b0d8-465bbaeb5461)
