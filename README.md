@@ -1,4 +1,6 @@
-# 📊 SOCIAL MEDIA TREND ANALYSIS
+# FUTURE_DS_01
+
+# 📊 Social Media Trend Analysis
 
 This project provides a **sentiment analysis** and **word cloud visualization** dashboard for textual data. It helps in understanding text trends and sentiment distribution using **Python**.
 
